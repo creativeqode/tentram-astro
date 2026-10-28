@@ -22,4 +22,4 @@ Passes the post's `title`, `description`, and `image` as the Layout's SEO overri
 
 `src/components/SiteHeader.astro` links to `/blog/` from both the desktop nav and mobile menu.
 
-The homepage-section anchors (`#situasi`, `#solusi`, `#alasan`, `#faq`) are rooted at `/#...` rather than bare `#...` so they still resolve correctly when clicked from `/blog/` pages.
+The homepage-section anchors (`#situasi`, `#alasan`, `#faq`) are rooted at `/#...` rather than bare `#...` so they still resolve correctly when clicked from `/blog/` pages.

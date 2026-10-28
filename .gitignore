@@ -24,3 +24,6 @@ pnpm-debug.log*
 .idea/
 .claude
 .mcp.json
+
+# lat.md generated cache
+lat.md/.cache/
